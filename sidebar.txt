@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gdx:home|Door43 (gdx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gdx|d43-gdx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gdx/archive/master.zip|d43-gdx.zip]]
+
+**Recent Changes**
+{{changes>ns = gdx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gdx|Ethnologue data]]
+
